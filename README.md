@@ -29,7 +29,6 @@ Technology in handling natural calamities can be used in the following ways:
 - Similarly, the low pressure areas, depressions, cyclones, flooded regions etc. can be routinely monitored using satellite data in real time.
 - Convey messages to the evacuation team via MCPTT (mission critical push to talk service, works without internet service). Usually during a disaster all means of communication are affected, so we need a technology which works even when internet, telecom towers etc. fail. MCPTT can be used by people to communicate with each other or relief teams.
 - Generate rescue plans using vulnerability maps (3d Maps generation, evacuation paths). A good rescue plan would ensure maximum lives are saved.
-- Installation of warning systems
-- Facilities have also been created for scanning, vector digitization and systematic archival of seismic analog charts of historical importance in electronic form.(sort of prediction) Machine Learning models for doing quick regression for parameter estimation.
-- compute earthquake parameters, simulated scenarios of travel time and run-up heights at 1800 coastal locations in the Indian Ocean, observing platforms for sea level variations, both in deep sea and coast, robust communication and dissemination system, data centre and decision support system
+- Systematic archival of seismic analog charts of historical importance in electronic form for doing prediction using Machine Learning models. Also Machine Learning models can be used for doing quick regression for parameter estimation of disasters like earthquakes to know the intensity and enery beforehand.
+- Sea Level monitoring , both in deep sea and coast, robust communication and disemination system, decision support system , installation of warning systems, data center etc for reducing hefty amount of losses by doing pre planning.  
 
